@@ -11,19 +11,22 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Research"
+    url: /publications/
+
   # - title: "Talks"
   #   url: /talks/    
 
   # - title: "Teaching"
   #   url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "Applied AI Projects"
     url: /portfolio/
         
   - title: "Blog Posts"
     url: /year-archive/
 
-  - title: "AI algorithms from sratch"
+  - title: "AI from scratch"
     url: /teaching/ 
     
   - title: "CV"
@@ -32,5 +35,5 @@ main:
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
